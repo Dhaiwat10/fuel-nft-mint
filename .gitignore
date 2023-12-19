@@ -1,0 +1,6 @@
+.fuels
+.next
+.turbo
+node_modules
+
+src/sway-api
